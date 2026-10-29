@@ -1,0 +1,6 @@
+{
+  "name": "eljaMart POS - Sistem Kasir Modern",
+  "description": "Sistem Kasir (Point of Sales) modern berbasis web untuk eljaMart dengan 3 hak akses: Admin, Kasir, dan Gudang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
